@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 90vh;
+    width:100vw;
+}
+.labler
+{
+    margin: 2px;
+    padding: 3px;
+    border: 2px solid green;
+}
